@@ -15,3 +15,4 @@
 - An API key can be obtained easily by creating an account on the shortener's page.
 - shorteners used in this project don't need any API keys.
 - For using this url-shortener you'll require an active internet connection.
+
